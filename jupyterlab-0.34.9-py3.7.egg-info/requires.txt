@@ -1,0 +1,12 @@
+notebook>=4.3.1
+jupyterlab_launcher<0.14.0,>=0.13.1
+
+[docs]
+sphinx
+recommonmark
+sphinx_rtd_theme
+
+[test]
+pytest
+requests
+pytest-check-links

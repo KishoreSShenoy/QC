@@ -1,0 +1,12 @@
+conda
+requests
+filelock
+pyyaml
+jinja2
+pkginfo
+beautifulsoup4
+chardet
+pytz
+tqdm
+psutil
+six
